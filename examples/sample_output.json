@@ -1,0 +1,102 @@
+{
+  "first_name": "Alex",
+  "last_name": "Chen",
+  "headline": "Machine Learning Engineer | NLP & Computer Vision | MSc Computer Science, Imperial College | Python, PyTorch | Open to Work",
+  "about": "I build machine learning systems that solve real business problems at scale.\n\nMy MSc at Imperial College London focused on transformer architectures for document understanding, achieving state-of-the-art results on three benchmark datasets. Before that, I spent two years at a Series B startup shipping production ML models serving 50M+ predictions per day.\n\nWhat I bring:\n\n▸ End-to-end ML pipeline experience: data collection, feature engineering, model training, deployment, and monitoring\n▸ Production NLP systems: named entity recognition, document classification, semantic search\n▸ Computer vision: object detection (YOLO, Faster R-CNN), image segmentation, OCR pipelines\n▸ MLOps: model versioning, A/B testing, automated retraining, drift detection\n\nTechnical stack: Python, PyTorch, TensorFlow, Hugging Face, FastAPI, Docker, Kubernetes, AWS SageMaker, PostgreSQL.\n\nI hold a Bachelor's degree in Mathematics from the University of Edinburgh (First Class Honours, Dean's List).\n\nOpen to: Machine Learning Engineer, NLP Engineer, Applied Scientist, and MLOps Engineer roles across the UK.\n\nLet's connect: alex.chen.example@gmail.com",
+  "location": "London, United Kingdom",
+  "email": "alex.chen.example@gmail.com",
+  "custom_url": "linkedin.com/in/alex-chen-ml",
+  "experiences": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "DataFlow AI",
+      "location": "London, United Kingdom",
+      "start_date": "January 2024",
+      "end_date": "Present",
+      "employment_type": "Full-time",
+      "description": "Leading the NLP team building document understanding systems for financial services clients.\n\n▸ Designed and deployed a transformer-based document classifier processing 2M+ documents/month with 97.3% accuracy\n▸ Built a semantic search engine using sentence-transformers and FAISS, reducing manual document review time by 60%\n▸ Implemented automated model retraining pipeline with drift detection, reducing model degradation incidents by 80%\n\nStack: Python, PyTorch, Hugging Face, FastAPI, Docker, AWS",
+      "skills": ["PyTorch", "NLP", "Transformers", "FastAPI", "AWS", "Docker"]
+    },
+    {
+      "title": "ML Engineering Intern",
+      "company": "TechVentures Ltd",
+      "location": "Cambridge, United Kingdom",
+      "start_date": "June 2023",
+      "end_date": "September 2023",
+      "employment_type": "Internship",
+      "description": "Built computer vision pipelines for automated quality inspection in manufacturing.\n\n▸ Trained YOLOv8 models for defect detection achieving 95% recall at 30 FPS on edge devices\n▸ Developed data augmentation pipeline that increased training data diversity by 5x\n▸ Created a Streamlit dashboard for real-time inference monitoring",
+      "skills": ["Computer Vision", "YOLO", "Python", "Streamlit", "Edge Deployment"]
+    }
+  ],
+  "educations": [
+    {
+      "school": "Imperial College London",
+      "degree": "Master of Science (MSc)",
+      "field_of_study": "Computing (Machine Learning)",
+      "start_date": "Sep 2023",
+      "end_date": "Sep 2024",
+      "description": "Dissertation: Efficient Transformer Architectures for Long Document Understanding — achieved state-of-the-art results on three benchmarks using a novel sparse attention mechanism.\n\nKey modules: Deep Learning, Natural Language Processing, Computer Vision, Probabilistic Inference, Reinforcement Learning."
+    },
+    {
+      "school": "University of Edinburgh",
+      "degree": "Bachelor of Science (BSc)",
+      "field_of_study": "Mathematics",
+      "start_date": "Sep 2019",
+      "end_date": "Jun 2023",
+      "description": "First Class Honours. Dean's List all four years.\n\nDissertation: Convergence Properties of Stochastic Gradient Descent in Non-Convex Landscapes.\n\nRelevant modules: Linear Algebra, Probability, Statistics, Optimisation, Numerical Methods."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Open-Source Document OCR Pipeline",
+      "description": "Built an end-to-end OCR pipeline combining layout detection (LayoutLMv3), text recognition (TrOCR), and post-processing. Handles multi-column layouts, tables, and handwritten text. 500+ GitHub stars.",
+      "url": "github.com/alexchen/doc-ocr",
+      "associated_with": "Imperial College London",
+      "stack": "Python, PyTorch, Hugging Face, Tesseract"
+    }
+  ],
+  "skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "Natural Language Processing",
+    "Computer Vision",
+    "PyTorch",
+    "TensorFlow",
+    "Python",
+    "Transformers",
+    "Hugging Face",
+    "FastAPI",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "PostgreSQL",
+    "Git",
+    "MLOps",
+    "Data Engineering",
+    "Statistical Modelling",
+    "A/B Testing",
+    "SQL"
+  ],
+  "top_skills": [
+    "Machine Learning",
+    "PyTorch",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Python"
+  ],
+  "languages": {
+    "English": "Native or bilingual proficiency",
+    "Mandarin": "Professional working proficiency"
+  },
+  "open_to_roles": [
+    "Machine Learning Engineer",
+    "NLP Engineer",
+    "Applied Scientist",
+    "MLOps Engineer"
+  ],
+  "open_to_locations": [
+    "London",
+    "United Kingdom",
+    "Remote"
+  ]
+}
